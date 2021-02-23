@@ -12,17 +12,19 @@
 
 ###### Heading 6
 
+Note: only the heading 1 and heading 2 have horizontal lines below
+
 <!-- Italic -->
 
-_This text_ is italic
+_Italic text_ example
 
 <!-- Strong(Bold) -->
 
-**This text** is bold
+**Strong text** example
 
 <!-- Strike through -->
 
-~~This text~~ is strikethrough
+~~Strikethrough text~~ example
 
 <!-- Horizontal rule -->
 
@@ -38,9 +40,9 @@ _This text_ is italic
 
 <!-- Links -->
 
-[Github profile](https://github.com/Dania99dev)
+[Github profile](https://github.com/Dania99dev) a link without hover title
 
-[Github profile](https://github.com/Dania99dev "This is a link")
+[Github profile](https://github.com/Dania99dev "Hover title") a link with hover title
 
 <!-- UL -->
 
