@@ -1,2 +1,2 @@
-# markdown-cheatsheet
+# Markdown cheatsheet
 A handy cheatsheet for markdown language.
