@@ -67,7 +67,9 @@ _Italic text_ example
 
 ![Markdown Logo](https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-128.png)
 
-<!-- Github Markdown -->
+<!-- GITHUB MARKDOWN -->
+
+<!-- Code blocks -->
 
 ```bash
 # bash syntax highlighting
