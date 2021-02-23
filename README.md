@@ -71,7 +71,6 @@ _Italic text_ example
 
 ```bash
 # bash syntax highlighting
-# Can use any other language syntax highlighting
   npm install
   npm start
 ```
@@ -84,8 +83,8 @@ function add(num1, num2) {
 ```
 
 ```python
-# Python syntax highlighting
-def add(num1, num2) :
+# python syntax highlighting
+def add(num1, num2):
   return num1 + num2
 ```
 
