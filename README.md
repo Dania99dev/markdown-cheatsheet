@@ -59,7 +59,7 @@ _This text_ is italic
 
 <!-- Inline code block -->
 
-`<p>This is a paragraph</p>`
+`<p>This is an inline code block</p>`
 
 <!-- Images -->
 
